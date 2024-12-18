@@ -172,7 +172,7 @@ p.tagline, .address-detail a.tagline {
   letter-spacing: -1px; }
 
 .side-right {
-  background: transparent url("../img/.png");
+  background: transparent url("../img/liquid.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1073,6 +1073,9 @@ p.tagline, .address-detail a.tagline {
   h1, h3, .side-right #countdown span,
   .side-right #countdown li.seperator {
     font-size: 35px; } }
+
+
+    
 
 
   
