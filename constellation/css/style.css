@@ -216,7 +216,7 @@ p.tagline, .address-detail a.tagline {
   background-repeat: no-repeat; }
 
 .page-left .page-inner {
-  background: transparent url("../img/leftbg.jpg"); }
+  background: transparent url("../img/leftbg1.jpg"); }
   .page-left .page-inner .small-hr {
     margin-top: 9px;
     margin-bottom: 23px; }
@@ -242,7 +242,7 @@ p.tagline, .address-detail a.tagline {
 
 .page-right .page-inner {
   padding-bottom: 100px;
-  background: transparent url("../img/rightbg.jpg"); }
+  background: transparent url("../img/mainbg1.jpg"); }
   .page-right .page-inner .trans-overlay-dark-contact {
     background: #fbf18e;
     /* The Fallback */
