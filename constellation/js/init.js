@@ -118,7 +118,7 @@ function pogody(){
 	});
 	/*Typed js*/
 	$("#typed").typed({
-		strings: [" Back Soon", " Stay Tuned", " Almost There"],
+		strings: ["Launching..", " Stay Tuned", " Almost There"],
 		typeSpeed: 100,
 		backDelay: 900,
 		loop: true,
@@ -129,7 +129,7 @@ function pogody(){
 	});
 	/*Typed js for title tag*/
 	$("#title").typed({
-		strings: ["Hello..!", "Welcome..!", "Enjoy..!"],
+		strings: ["Hello..!", "Welcome..!"],
 		typeSpeed: 300,
 		backDelay: 900,
 		loop: true,
